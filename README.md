@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**chanmesa9727/chanmesa9727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mesa! 👋
 
-Here are some ideas to get you started:
+### 💻 Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a university student passionate about web development and technology.
+
+- 🌱 Currently learning HTML, CSS, JavaScript, and MySQL
+- 🎨 Interested in UI/UX Design
+- 🚀 Working towards becoming a Full-Stack Developer
+- 📍 Cambodia 🇰🇭
+
+### 🛠️ Technologies I'm Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Git & GitHub
+
+### 🎯 My Goal
+
+To become a professional Full-Stack Web Developer.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
